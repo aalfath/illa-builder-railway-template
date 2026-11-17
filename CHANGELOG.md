@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.8.5-railway.2 (2026-11-17)
+
+- README: Deploy on Railway button linking to the published template `illa-builder`. No change to the image or the app.
+
 ## 4.8.5-railway.1 (2026-11-17)
 
 - First release: ILLA Builder v4.8.5 (`illasoft/illa-builder:v4.8.5@sha256:4cb2e832e4d4b678863442c091975e1250ba60891712a3f825812480bcaa0562`).

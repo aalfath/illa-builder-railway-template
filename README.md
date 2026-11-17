@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/illa-builder?utm_medium=integration&utm_source=button&utm_campaign=illa-builder)
+
 # ILLA Builder on Railway
 
 Railway template for [ILLA Builder](https://github.com/illacloud/illa-builder), the open-source low-code platform for building internal tools (dashboards, CRUD apps, admin panels) on top of your databases and APIs.
